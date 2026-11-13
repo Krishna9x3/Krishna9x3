@@ -1,6 +1,6 @@
 # Hey, I'm Krishna 👋
 
-### Senior Data Engineer | Azure-first | Building data platforms that don't break at 3 AM
+### Senior Data Engineer | Azure-first | Building data platforms that don't break at 2 AM
 
 📍 Based in Hyderabad, India
 
@@ -40,8 +40,3 @@ I've spent about 5 years turning messy, high-volume data into pipelines and anal
 ## 💼 Open to opportunities
 
 I'm open to senior data engineering roles, especially ones involving Azure data platforms, PySpark workloads, and streaming systems. If you're looking for someone who can own pipelines from design to production, I'd love to chat.
-
-## 📬 Let's connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/pulluru-sai-krishna)
-- ✉️ [Email](work.00.sai@gmail.com)
